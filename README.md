@@ -1,5 +1,5 @@
 # OOP Learning
-This repository contains lab practice files from the Object-Oriented Programming (OOP) course during my undergraduate program. The exercises here demonstrate my understanding of key OOP concepts through practical examples.
+This repository contains some lab practice files from the Object-Oriented Programming (OOP) course of my undergraduate program. The exercises here demonstrate my understanding of key OOP concepts through practical examples.
 
 ## Repository Contents
 - **Encapsulation**: Each exercise showcases how to bundle data and methods that operate on the data within one unit, such as a class in C++. This helps in protecting the data from unauthorized access and misuse.
